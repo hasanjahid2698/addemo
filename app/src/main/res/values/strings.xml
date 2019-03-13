@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">adDemo</string>
+
+    <string name="banner_ad_server_list_unit_id">ca-app-pub-2399076519179889/2599595417</string>
+    <string name="native_ad_test_unit_id">ca-app-pub-1681946720687020/7044917792</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2399076519179889/5369939426</string>
+</resources>
